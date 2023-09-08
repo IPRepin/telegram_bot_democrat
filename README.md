@@ -32,7 +32,7 @@
 ### Инструкция по запуску
 1. Клонировать копию проекта на локальный компьютер командой
 ```
-git clone --branch=release https://github.com/IPRepin/Bot_demokrat.git
+git clone https://github.com/IPRepin/telegram_bot_democrat.git
 ```
 2. В используемой вами IDE в корне проекта создаем виртуальную среду командой
 ```
